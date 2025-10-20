@@ -37,6 +37,6 @@ After getting the three important columns (RFM), classify their similar behavior
 ## 🧾 Dataset
 
 **Online retail dataset**:  
-`C:\Users\Lenovo\Downloads\online+retail`  
+`[C:\Users\Lenovo\Downloads\online+retail](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)`  
 
 This dataset is used to calculate RFM metrics and segment customers for effective marketing strategies.
